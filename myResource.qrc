@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/todolist.jpg</file>
+        <file>image/todolist2.jpg</file>
+    </qresource>
+</RCC>
